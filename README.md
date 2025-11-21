@@ -46,80 +46,79 @@ COGS behavior exhibited significant variation throughout the year:
 Higher COGS % in lower-revenue months reflects declining cost efficiency. Strong sales volume plays a key role in maintaining healthy margins.
 
 **Gross Profit Analysis**
-
 Infocom achieved a gross profit of $10.85M with a gross margin of 61.78%, indicating strong pricing power and efficient production overall.
 **Business line breakdown:**
 
 **Sportwear:**
 
-Gross profit: $4,787,700
+- Gross profit: $4,787,700
 
-Gross margin: 70.33%
+- Gross margin: 70.33%
 
-Most profitable line, demonstrating highly efficient production and strong consumer demand.
+- Most profitable line, demonstrating highly efficient production and strong consumer demand.
 
-Trend Observation:
+**Trend Observation:**
 
-Early-year decline in both gross profit and margin
+- Early-year decline in both gross profit and margin
 
-Growth toward year-end
+- Growth toward year-end
 
-Suggests improved cost structure, stronger selling price strategy, or peak-season performance.
+- Suggests improved cost structure, stronger selling price strategy, or peak-season performance.
 
-3.3 Operating Expenses (OPEX)
+**Operating Expenses (OPEX)**
 
-Total OPEX amounted to $5.64M, representing 31.92% of total revenue.
-This indicates that for every $1 earned, Infocom spent $0.3192 on operating the business—an efficient and healthy cost profile.
+- Total OPEX amounted to $5.64M, representing 31.92% of total revenue.
+- This indicates that for every $1 earned, Infocom spent $0.3192 on operating the business—an efficient and healthy cost profile.
 
-Notable segment:
+**Notable segment:**
 
-Nutrition & Food Supplements
+**Nutrition & Food Supplements**
 
-OPEX: $1,395,200
+- OPEX: $1,395,200
 
-OPEX Margin: 75.68%
+- OPEX Margin: 75.68%
 
-Consumes a disproportionate share of revenue
+- Consumes a disproportionate share of revenue
 
-Reflects poor cost leverage and weak revenue performance
+- Reflects poor cost leverage and weak revenue performance
 
-Significant fixed costs amplify inefficiency when sales drop
+- Significant fixed costs amplify inefficiency when sales drop
 
-Trend Observation:
+**Trend Observation:**
 OPEX % increases when absolute OPEX decreases, highlighting a negative correlation driven by lower revenue levels in specific months.
 
-3.4 EBIT Performance
+**EBIT Performance**
 
 Infocom recorded an EBIT of $5.24M with a strong EBIT margin of 29.86%, demonstrating solid operational efficiency and the ability to convert nearly one-third of revenue into operating profit.
 
-By business line:
+**By business line:**
 
 Nutrition & Food Supplements posted a negative EBIT of -$568,880 (EBIT margin: -30.86%), indicating that its operating expenses significantly exceed its revenue, rendering the segment unprofitable.
 
-3.5 Net Income
+**Net Income**
 
 Infocom generated a net income of $4.31M, retaining 24.57% of its revenue as true profit after accounting for all expenses, interest, and taxes.
+
 This strong bottom-line performance highlights:
 
-disciplined expense management
+- disciplined expense management
+- efficient operations
+- a robust overall cost structure
 
-efficient operations
-
-a robust overall cost structure
-
-4. Conclusion
+**Conclusion**
 
 The analysis of Infocom’s 2023 income statement reveals a company with strong overall financial performance, particularly in its Sportwear and Sport Inventory lines. These segments demonstrate high cost efficiency, strong margins, and consistent profitability.
 
 However, the Nutrition & Food Supplements segment stands out as a significant area of concern. High COGS %, elevated OPEX %, and negative EBIT indicate that this segment is underperforming and may require:
 
-cost restructuring,
+- cost restructuring,
 
-pricing strategy review, or
+- pricing strategy review, or
 
-product repositioning.
+- product repositioning.
 
 Overall, Infocom exhibits solid profitability, strong cost control, and healthy margins—positioning the company well for strategic growth and targeted improvements in weaker business lines.
+
 <img width="1682" height="943" alt="Income Statement Dashboard 1" src="https://github.com/user-attachments/assets/45520a0c-6eee-4560-a1ff-9e2092004275" />
 
 <img width="1679" height="940" alt="Income Statement Dashboard 2" src="https://github.com/user-attachments/assets/62f19501-51ba-478f-ad69-ae968ec5da7b" />
